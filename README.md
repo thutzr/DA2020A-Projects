@@ -3,10 +3,7 @@
 * 谭泽人
 * 滕佳烨
 * 卢晨贝
-## Data Pre-processing
+## Project 2 -- Liver Cancer Prediction
 
-## Prediction Models
-
-## Evaluation
 
 
